@@ -5,6 +5,8 @@
 [![Gunicorn](https://img.shields.io/badge/-gunicorn-464646??style=flat-square&logo=gunicorn)](https://gunicorn.org/)
 [![CI/CD](https://img.shields.io/badge/-CI/CD-464646??style=flat-square&logo=CI/CD)](https://resources.github.com/ci-cd/)
 <br>
+![badge](https://github.com/devlili/kittygram_final/actions/workflows/main.yml/badge.svg)
+<br>
 
 # Kittygram
 
